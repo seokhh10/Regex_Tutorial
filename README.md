@@ -12,4 +12,4 @@ The purpose of this tutorial is to break down and explain each component of the 
 
 ## Link to the gist
 
-[Email Validation Regex Tutorial]()
+[Email Validation Regex Tutorial](https://gist.github.com/seokhh10/393d79d5b6b46d4505d14b67ebeb8832)
